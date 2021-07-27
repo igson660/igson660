@@ -23,6 +23,6 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Igson Félix Github Stats">
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact" alt="igson660" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" /></p>
