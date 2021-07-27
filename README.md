@@ -12,7 +12,7 @@
 <br />
 <br />
 
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <p align='center'><img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></p>
   
 <h3 align="left">Languages and Tools:</h3>
 <br />
