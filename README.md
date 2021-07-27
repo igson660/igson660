@@ -1,4 +1,7 @@
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+<h1 align="center">Hi 👋, I'm Igson Félix</h1>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
+
+- 🔭 I’m currently working on [Ong Pais Afetivos | Grupo CPB](https://github.com/GrupoCPB/paisafetivos-web-frontend)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
