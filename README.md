@@ -80,7 +80,7 @@
 <div align="center">  
   <br>
   <br>
-<img lign="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact" alt="igson660" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact" alt="igson660" width="400px"/>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" width="400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" width="400px"/>
 </div>
