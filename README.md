@@ -33,8 +33,8 @@
       using REACT and TDD;
     -Studying backend development;
     -My hobby is practicing jiu-jitsu;
-    -Always looking for knowledge to further improve
-      my developer career
+    -Always looking for knowledge to further
+      improve my developer career
   </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
