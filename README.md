@@ -29,11 +29,12 @@
       width="400px" />
 
     -I'm doing systems analysis and development;
-    -Improving my knowledge in frontend, using REACT and TDD;
+    -Improving my knowledge in frontend,
+      using REACT and TDD;
     -Studying backend development;
     -My hobby is practicing jiu-jitsu;
     -Always looking for knowledge to further improve
-     my developer career
+      my developer career
   </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
@@ -79,9 +80,7 @@
 <div align="center">  
   <br>
   <br>
-<img lign="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact"
-    alt="igson660" />
+<img lign="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact" alt="igson660" width="400px"/>
 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" width="400px"/>
 </div>
