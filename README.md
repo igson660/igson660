@@ -56,8 +56,10 @@
   <br />
   <br />
 
+   <img align="right" alt="GIF" src="https://giphy.com/embed/CGkLjI3DT5ZTSiBj36.gif" width="400px" />
   <iframe src="https://giphy.com/embed/CGkLjI3DT5ZTSiBj36" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/travisband-travis-fran-healy-los-40-CGkLjI3DT5ZTSiBj36">via GIPHY</a></p>
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/CGkLjI3DT5ZTSiBj36" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/travisband-travis-fran-healy-los-40-CGkLjI3DT5ZTSiBj36">via GIPHY</a></p>
+  
   - I'm studying backend development; 
   - My hobby is practicing jiu-jitsu;
   - I'm pursuing knowledge to evolve in my developer career;
