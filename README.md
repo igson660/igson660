@@ -22,14 +22,18 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
         alt="igson_felix_" height="40" width="40" />
     </a>
+    <br/>
+    <br/>
   </div>
     <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
       width="400px" />
 
-    <p>-Improving my knowledge in frontend, using REACT and TDD</p>
-    <p>-Studying backend development;</p>
-    <p>-My hobby is practicing jiu-jitsu;</p>
-    <p>-Always looking for knowledge to further improve my developer career</p>
+    -I'm doing systems analysis and development;
+    -Improving my knowledge in frontend, using REACT and TDD;
+    -Studying backend development;
+    -My hobby is practicing jiu-jitsu;
+    -Always looking for knowledge to further improve
+     my developer career
   </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
@@ -72,12 +76,12 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
-<p align="center">
-  <img lign="center"
+<div align="center">  
+  <br>
+  <br>
+<img lign="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=igson660&show_icons=true&locale=en&layout=compact"
     alt="igson660" />
-</p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" />
-</p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=igson660&" alt="igson660" />
+</div>
