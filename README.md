@@ -2,7 +2,7 @@
 <h3 align="center"> A frontend developer in evolution </h3>
 
   -I'm doing systems analysis and development; <br/>
-  -Improving my knowledge in frontend,using REACT and REACT NATIVE; <br/>
+  -Improving my knowledge in frontend, using REACT and REACT NATIVE; <br/>
   -Studying backend development; <br/>
   -My hobby is practicing jiu-jitsu; <br/>
   -Always looking for knowledge to further improve my developer career<br/>
